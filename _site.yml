@@ -1,0 +1,8 @@
+name: "Brandon Flores"
+navbar:
+  title: 
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
